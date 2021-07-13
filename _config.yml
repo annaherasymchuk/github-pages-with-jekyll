@@ -6,7 +6,7 @@ description: Iceland is a different version of Paradise.
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
-social links
+ # social links
 instagram_username: anya.gerasymchuk
 github_username:  annaherasymchuk
 
